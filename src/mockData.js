@@ -9,7 +9,7 @@ const cards = [
     ballsList: [1, 2, 5, 3, 6, 7],
   },
   {
-    id: 2222,
+    id: 2,
     jackpotText: "$3,000",
     drawTime: "12:35",
     logo: "https://seekflag.com/app/uploads/2021/12/portugal-28.svg",
